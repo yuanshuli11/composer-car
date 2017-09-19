@@ -1,0 +1,14 @@
+{
+    "name": "yuansl/composer-car",
+    "description": "this is a demo for learn composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "袁树立",
+            "email": "1923244321@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
